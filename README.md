@@ -21,3 +21,4 @@ La página tendrá un manejo sencillo, es decir fácil de utilizar por cualquier
 ## Saryel Narvaez Perez
 ## María Alma López Mestra 
 ## Jose Luis Mercado Ibarra
+## Luis Ángel Díaz Nisperuza
