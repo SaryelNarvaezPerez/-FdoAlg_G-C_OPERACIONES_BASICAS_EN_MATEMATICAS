@@ -19,3 +19,5 @@ Entre las descripciones generales del proyecto a desarrollar encontramos que ten
 La página tendrá un manejo sencillo, es decir fácil de utilizar por cualquier persona, será diseñada de forma llamativa, tendrá los temas que trataremos suma. resta, multiplicación y división, además, tendrá distintas actividades como talleres o evaluaciones que le ayuden al estudiante complementar su aprendizaje, por último esta podría ser por niveles donde los niños tendrán que desbloquear para avanzar en su aprendizaje donde tendrían que pasar un examen para poder pasar de la suma a la resta y de la multiplicación a la división.
 
 ## Saryel Narvaez Perez
+## María Alma López Mestra 
+
