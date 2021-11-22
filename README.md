@@ -1,4 +1,4 @@
-# -FdoAlg_G-C_OPERACIONES_BASICAS_EN_MATEMATICAS
+# FdoAlg_G-B_OPERACIONES_BASICAS_EN_MATEMATICAS
 
 ## Introducción
 Las operaciones básicas siempre existen en nuestra vida diaria, a través del uso de las matemáticas podemos enfrentar situaciones en las que necesitamos usar números, por lo que esta se ha convertido en una actividad básica para adquirir conocimientos. Dado que la matemática es una de las asignaturas básicas de la educación general, es necesario enfocarse en educar e instruir a las personas para que sean capaces de mejorar la forma de vida y convivencia en esta sociedad más compleja.
