@@ -15,9 +15,10 @@ h1,h2{
 header {
   width: 100%;
   height: 100px;
-  display: flex;
+  display: inline-block;
   padding: 15px;
   justify-content: end;
+  text-align: center;
 }
 
 a {
@@ -25,7 +26,7 @@ a {
   position: relative;
   display: inline-block;
   padding: 15px 30px;
-  color: #98FB98;
+  color: #0cf50c;
   text-transform: uppercase;
   letter-spacing: 4px;
   text-decoration: none;
@@ -127,6 +128,24 @@ body#contenido h1 {
   background-color: white;
   padding: 10px 15px;
   box-shadow: 0 0 10px gray;
+display: block;
+width: 800px;
+margin: auto;
+border-radius: 10px;
+}
+
+body#actividades{
+
+  background: url(img/actividad.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 350%;
+}
+
+body#actividades h1 {
+  color: #06BBB2; 
+background-color: white;
+padding: 10px 15px;
+box-shadow: 0 0 10px gray;
 display: block;
 width: 800px;
 margin: auto;
