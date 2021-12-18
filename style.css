@@ -141,7 +141,7 @@ body#actividades{
   background-size: 100% 350%;
 }
 
-body#actividades h1 {
+body h1{
   color: #06BBB2; 
 background-color: white;
 padding: 10px 15px;
@@ -150,4 +150,11 @@ display: block;
 width: 800px;
 margin: auto;
 border-radius: 10px;
+}
+
+body#examen{
+
+  background: url(img/math4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 350%;
 }
